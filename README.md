@@ -26,6 +26,8 @@ I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: In my free time, I read and watch programming videos on youtube
 
+[![codewars](https://www.codewars.com/users/VladislavCR/badges/small)](https://www.codewars.com/users/VladislavCR)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -44,7 +46,7 @@ I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpO
 </div>
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Links+to+my+projects:)](https://github.com/VladislavCR)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Links+to+my+projects:)](https://github.com/VladislavCR?tab=repositories)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
