@@ -24,7 +24,7 @@ I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :seedling: Exploring new technologies and libraries
 
-- :zap: In my free time, I read and watch programming videos on youtube
+- :zap: In my free time I read and watch programming videos on youtube
 
 [![codewars](https://www.codewars.com/users/VladislavCR/badges/small)](https://www.codewars.com/users/VladislavCR)
 
