@@ -18,7 +18,7 @@
   welcome to my profile
 </h2>
 
-### :man_technologist: About Me :
+### About Me :
 I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a developer and contributing to backend for building web applications.
 
