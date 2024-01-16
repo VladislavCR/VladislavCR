@@ -19,14 +19,14 @@
 </h2>
 
 ### About Me :
-I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Junior Python Developer from Russia.
 - :telescope: I’m working as a developer and contributing to backend for building web applications.
 
 - :seedling: Exploring new technologies and libraries
 
 - :zap: In my free time I read and watch programming videos on youtube
 
-[![codewars](https://www.codewars.com/users/VladislavCR/badges/small)](https://www.codewars.com/users/VladislavCR)
+[![codewars](https://www.codewars.com/users/VladislavCR/badges/large)](https://www.codewars.com/users/VladislavCR)
 
 ---
 
